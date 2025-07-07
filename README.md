@@ -22,13 +22,13 @@ This project uses deep learning techniques (ANN) to detect faults in solar panel
 
 📁 Project Structure
 
-App/
-├── dataset/           # Sensor data for training/testing
-├── model/             # Saved ANN model
-├── app.py             # Main Streamlit application
-├── preprocess.py      # Data cleaning and transformation
-├── train\_model.py     # ANN model training script
-└── requirements.txt   # Python dependencies
+App/                                       
+├── dataset/            # Sensor data for training/testing                                                             
+├── model/              # Saved ANN model                                                            
+├── app.py              # Main Streamlit application                                      
+├── preprocess.py       # Data cleaning and transformation                                              
+├── train\_model.py     # ANN model training script                                                         
+└── requirements.txt    # Python dependencies                                                
 
 
 🛠️ How to Run
@@ -49,12 +49,14 @@ App/
 
 * Solar plant monitoring systems
 * Smart energy grid analysis
-* Remote fault diagnosis using drones/UAVs
+* Remote fault diagnosis
 
 📚 Project Report
 
 You can read the full documentation and methodology in the `Report/` folder (if included).
 
 
-Made with ❤️ by Akshay Dhage (BE Project 2025)
+Made with ❤️ by Akshay Dhage @ www.linkedin.com/in/akshay-dhage82 
+
+
 
